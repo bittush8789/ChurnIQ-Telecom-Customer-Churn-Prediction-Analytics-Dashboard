@@ -1,0 +1,10 @@
+# Telecom Customer Churn Prediction & Analytics Dashboard
+# Install with: pip install -r requirements.txt
+
+streamlit>=1.49
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.4
+xgboost>=2.0
+plotly>=5.18
+joblib>=1.3
